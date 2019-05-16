@@ -1,18 +1,18 @@
 //
-//  HelloWorld_OCTests.m
-//  HelloWorld_OCTests
+//  NSTimersTests.m
+//  NSTimersTests
 //
-//  Created by Charles  on 4/15/19.
-//  Copyright © 2019 Charlie.L. All rights reserved.
+//  Created by Aaron Caines on 23/08/2018.
+//  Copyright © 2018 Aaron Caines. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface HelloWorld_OCTests : XCTestCase
+@interface NSTimersTests : XCTestCase
 
 @end
 
-@implementation HelloWorld_OCTests
+@implementation NSTimersTests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.
